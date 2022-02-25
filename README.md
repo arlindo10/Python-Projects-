@@ -8,7 +8,7 @@ Esse repositório é dedicado para adicionar minhas soluções dos projetos incl
 
 ##### Project 2 -  Entendendo os tipos de dados e como manipular strings
 
-- [Implementação: calculadora de gorjetas]()
+- [Implementação: calculadora de gorjeta](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2002/Calculadora%20de%20Gorjeta)
 
 ##### Project 3 - Fluxo de Controle e Operadores Lógicos
 
