@@ -20,5 +20,5 @@ Esse repositório é dedicado para adicionar minhas soluções dos projetos incl
 
 #### Project 5 - Estruturas de repetição em Python
 
-- [Implementação: Gerador de senha ](https://github.com/b-tomi/100DaysOfCode/blob/master/day05)
+- [Implementação: Gerador de senha ](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2005/Gerador%20de%20Senha)
 
