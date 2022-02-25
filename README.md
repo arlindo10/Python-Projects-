@@ -18,3 +18,7 @@ Esse repositório é dedicado para adicionar minhas soluções dos projetos incl
 
 - [Implementação: Pedra Papel Tesoura](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2004/Pedra%20Papel%20Tesoura)
 
+#### Project 5 - Estruturas de repetição em Python
+
+- [Implementação: Gerador de senha ](https://github.com/b-tomi/100DaysOfCode/blob/master/day05)
+
