@@ -1,4 +1,4 @@
-<h1> The Complete Python Pro Bootcamp for 2022 </h1>
+<h1> The Complete Python Pro Bootcamp for 2022 🐍 </h1>
 
 Esse repositório é dedicado para adicionar minhas soluções dos projetos incluídos no curso de Python da [Dra. Angela Yu](https://www.udemy.com/course/100-days-of-code/).
 
