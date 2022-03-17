@@ -1,8 +1,6 @@
 <h1> The Complete Python Pro Bootcamp for 2022 🐍 </h1>
 
-Esse repositório é dedicado para adicionar minhas soluções dos projetos incluídos no curso de Python da [Dra. Angela Yu](https://www.udemy.com/course/100-days-of-code/).
-
-#### Project 1 - Trabalhando com Variáveis ​​em Python para Gerenciar Dados
+#### Project 1 - Trabalhando com Variáveis em Python para Gerenciar Dados
 
 - [Implementação: Gerador de nome de banda](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2001/Gerador%20de%20nome%20de%20banda)
 
@@ -22,3 +20,6 @@ Esse repositório é dedicado para adicionar minhas soluções dos projetos incl
 
 - [Implementação: Gerador de senha ](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2005/Gerador%20de%20Senha)
 
+<h4> Project 6 - Funções Python e Karel </h4>
+
+* [Implementação: Reeborg's World: Hurdle 1](https://github.com/arlindo10/Python-Projects-/blob/main/Project%2006/ReeborgsWorldHurdle1/main.py)
