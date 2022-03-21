@@ -26,4 +26,6 @@
 
 * [Implementação: Reeborg's World: Hurdle 2](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2006/ReeborgsWorldHurdle2)
 
+* [Implementação: Reeborg's World: Hurdle 3](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2006/ReeborgsWorldHurdle3)
+
   
