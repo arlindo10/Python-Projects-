@@ -23,9 +23,10 @@
 <h4> Project 6 - Funções Python e Karel </h4>
 
 * [Implementação: Reeborg's World: Hurdle 1](https://github.com/arlindo10/Python-Projects-/blob/main/Project%2006/ReeborgsWorldHurdle1/main.py)
-
 * [Implementação: Reeborg's World: Hurdle 2](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2006/ReeborgsWorldHurdle2)
-
 * [Implementação: Reeborg's World: Hurdle 3](https://github.com/arlindo10/Python-Projects-/tree/main/Project%2006/ReeborgsWorldHurdle3)
 
-  
+
+<h4>Project 7 - Funções Python e Karel </h4>
+
+* [Implementação: jogo da forca]()
